@@ -1,0 +1,139 @@
+{
+  "infos":[
+    {
+      "id"          : 22,
+      "name"        : "日本工学院専門学校蒲田Ｃ",
+      "entry"       : "東京",
+      "org"         : "日本工学院専門学校蒲田校",
+      "description" : "ペットボトルと缶の自動分別装置",
+      "title"       : "https://youtu.be/A6gOJwrhjiY",
+      "performance" : "https://youtu.be/6gTkVndpxq4"
+    },
+    {
+      "id"          : 37,
+      "name"        : "れいんぼう",
+      "entry"       : "東京",
+      "org"         : "株式会社エヌデーデー水戸事業所",
+      "description" : "スマホマイバディ",
+      "title"       : "https://youtu.be/wBeFEbiJ_Qg",
+      "performance" : "https://youtu.be/C0xomZyBjS0"
+    },
+    {
+      "id"          : 94,
+      "name"        : "あしの会A",
+      "entry"       : "関西",
+      "org"         : "大阪府立淀川工科高等学校",
+      "description" : "起床サポート水鉄砲",
+      "title"       : "https://youtu.be/q8ESEwd6b1U",
+      "performance" : "https://youtu.be/jQcTirZS3dc"
+    },
+    {
+      "id"          : 106,
+      "name"        : "追跡線隊HiICSイエロー",
+      "entry"       : "東京",
+      "org"         : "株式会社日立産業制御ソリューションズ",
+      "description" : "人物自動追跡ショッピングカート",
+      "title"       : "https://youtu.be/NMa00It9b3A",
+      "performance" : "https://youtu.be/n36WvNelWEc"
+    },
+    {
+      "id"          : 152,
+      "name"        : "月のラムネ",
+      "entry"       : "中四国",
+      "org"         : "宇部工業高等専門学校ETロボコン同好会",
+      "description" : "どこでもコインロッカー",
+      "title"       : "https://youtu.be/tSpn7avTMv8",
+      "performance" : "https://youtu.be/VCQGqoJ-U50"
+    },
+    {
+      "id"          : 168,
+      "name"        : "ＫＫＵ",
+      "entry"       : "南関東",
+      "org"         : "なし",
+      "title"       : "https://youtu.be/9sIAoYWQomE",
+      "description" : "自動歯磨きマシーン",
+      "performance" : "https://youtu.be/T4E-N4S2jfs"
+    },
+    {
+      "id"          : 203,
+      "name"        : "ＳＬＰ－ＧｕＨｏｏ",
+      "entry"       : "中四国",
+      "org"         : "香川大学 工学部 SLP-KBIT",
+      "title"       : "https://youtu.be/9ukoSvU5icI",
+      "description" : "筋トレ支援アプリ",
+      "performance" : "https://youtu.be/SDMCwrr46n0"
+    },
+    {
+      "id"          : 213,
+      "name"        : "Ｓｕｎｓｈｉｎｅ",
+      "entry"       : "沖縄",
+      "org"         : "N高等学校、沖縄県立北中城高等学校",
+      "description" : "猫の目覚ましぬいぐるみ",
+      "title"       : "https://youtu.be/p-FayFviFMw",
+      "performance" : "https://youtu.be/5yCXPPYT1XE"
+    },
+    {
+      "id"          : 236,
+      "name"        : "九TECH開発部",
+      "entry"       : "北九州",
+      "org"         : "九州職業能力開発大学校",
+      "description" : "本棚本自動入れ替え装置",
+      "title"       : "https://youtu.be/1ftQE42bTBk",
+      "performance" : "https://youtu.be/o68ApdwVn4w"
+    },
+    {
+      "id"          : 261,
+      "name"        : "あかとんぼ",
+      "entry"       : "関西",
+      "org"         : "大阪府立城東工科高校",
+      "description" : "UFOカメラ",
+      "title"       : "https://youtu.be/QkfthtuaJVE",
+      "performance" : "https://youtu.be/ob62eRFCpmo"
+    },
+    {
+      "id"          : 293,
+      "name"        : "妖精のものつくり工房",
+      "entry"       : "北関東",
+      "org"         : "ものつくり大学 聖望学園高等学校",
+      "description" : "電動コミュータ by NXT",
+      "title"       : "https://youtu.be/68ZHkG1CAfI",
+      "performance" : "https://youtu.be/akINn1OlOTM"
+    },
+    {
+      "id"          : 303,
+      "name"        : "ばるちゃんず",
+      "entry"       : "南関東",
+      "org"         : "株式会社日立製作所 サービス&プラットフォームビジネスユニット",
+      "description" : "HiZEN",
+      "title"       : "https://youtu.be/qTLQSWbkebQ",
+      "performance" : "http://youtu.be/fwsvo5mLYt8"
+    },
+    {
+      "id"          : 309,
+      "name"        : "Ｗ３バランス",
+      "entry"       : "北関東",
+      "org"         : "なし",
+      "description" : "EV3でだるまさんがころんだ",
+      "title"       : "https://youtu.be/s0O03afBudU",
+      "performance" : "https://youtu.be/LwdUoetR5EE"
+    },
+    {
+      "id"          : 323,
+      "name"        : "Ｓａｎｚｏ２０１７－ω",
+      "entry"       : "中四国",
+      "org"         : "福山大学",
+      "description" : "土砂崩れ予測システム",
+      "title"       : "https://youtu.be/TaG1LXNZGA8",
+      "performance" : "https://youtu.be/enTNECkLilQ"
+    },
+    {
+      "id"          : 352,
+      "name"        : "Ｍｏｎｏｌｉｔｈ　Ｇ",
+      "entry"       : "東北",
+      "org"         : "岩手県立大学ソフトウェア情報学部ソフトウェア情報学科",
+      "description" : "ミーアキャット",
+      "title"       : "https://youtu.be/C7mlkDpRjq4",
+      "performance" : "https://youtu.be/cmyr-CuiVLk"
+    }
+  ]
+}
